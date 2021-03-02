@@ -68,6 +68,9 @@ h2{
 .row{
   display: flex;
 }
+.row-2{
+  display: flex;
+}
 
 main{
   padding: 1em;
