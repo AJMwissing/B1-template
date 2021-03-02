@@ -180,6 +180,12 @@ button{
   display: flex;
   justify-content: space-between;
 }
+.pr-con{
+  display: flex;
+}
+.right-pr span{
+  font-weight: bold;
+}
 
 .description{
   flex: 1;
